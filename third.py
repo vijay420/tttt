@@ -1,0 +1,12 @@
+x=1000
+y=2000
+z=3000
+print(x+y+z)
+print(x+y)
+print(x+z)
+print(y+z)
+print(z-x)
+print(z-y)
+print(z-y-x)
+print(x-y)
+print(x-z)
